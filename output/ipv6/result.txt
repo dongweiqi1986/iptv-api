@@ -1,0 +1,221 @@
+🕘️更新时间,#genre#
+2026-03-24 14:13:18,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
+
+☘️央视频道,#genre#
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
+
+📡卫视频道,#genre#
+广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+北京卫视,https://py.doube.eu.org/ysp/2024052703/600002309
+北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+安徽卫视,https://py.doube.eu.org/ysp/2024171403/600002532
+安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+重庆卫视,https://py.doube.eu.org/ysp/2024061103/600002531
+重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+东方卫视,https://py.doube.eu.org/ysp/2024054503/600002483
+东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+甘肃卫视,https://py.doube.eu.org/ysp/2025561703/600190408
+广西卫视,http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771760950&major_anchor_level=common&sign=d9c21ca1151fa649e68dc18c13ac2e23&t_id=037-2026021519491078C5C8D15B8DDFD19426-OM31JH
+广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+贵州卫视,https://py.doube.eu.org/ysp/2024061603/600002490
+贵州卫视,http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
+海南卫视,https://py.doube.eu.org/ysp/2024055603/600002506
+海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
+河北卫视,https://py.doube.eu.org/ysp/2024171503/600002493
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+河南卫视,https://py.doube.eu.org/ysp/2024059703/600002525
+吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
+江苏卫视,https://py.doube.eu.org/ysp/2024171103/600002521
+江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江西卫视,http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
+深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+天津卫视,http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+
+☘️北京频道,#genre#
+
+☘️香港频道,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+翡翠台1080p,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台1080p,http://r.jdshipin.com/62WM7
+翡翠台1080p,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+明珠台1080p,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台1080p,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠台1080p,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB1 1080p,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1 1080p,https://6.cdn.loc.cc/163189.php?id=j1
+TVBJ1 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB plus 1080p,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB plus 1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB plus 1080p,https://cdn6.163189.xyz/163189/tvbp
+TVB星河720p,http://cdn10.163189.xyz/163189/xinghe
+TVB星河720p,http://r.jdshipin.com/Voac4
+ViuTV 1080p,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+ViuTV 1080p,https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+ViuTV 1080p,https://cdn.163189.xyz/163189/viu
+ViuTV6 1080p,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+RHK31 1080p,https://live.catvod.com/iptv.php?id=rthk31
+RHK31 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RHK31 1080p,http://cdn.163189.xyz/163189/rthk31
+RHK32 1080p,https://live.catvod.com/iptv.php?id=rthk32
+RHK32 1080p,http://cdn.163189.xyz/163189/rthk32
+RHK32 1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RHK32 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+HOY76 1080p,http://hls.168.us.kg/u/76/master.m3u8
+HOY77 1080p,http://hls.168.us.kg/u/77/master.m3u8
+HOY77 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY77 1080p,http://cdn.163189.xyz/163189/hoy
+HOY78 1080p,http://hls.168.us.kg/u/78/master.m3u8
+
+☘️台湾频道,#genre#
+中天新聞1080p(梯子),https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+中天新聞720p,https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
+中天新聞720p,https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.m3u8
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+東森新聞台HD 720p,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
+年代新聞HD 1080p,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+寰宇新聞台1080p,https://stream1.freetv.fun/e7076724f6f4ec080e7f1a9c5cac04dd03cdf2a7684892d4415c329245441c95.m3u8
+寰宇新聞台1080p,https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+寰宇新聞台湾台1080p,https://stream1.freetv.fun/6f86b785e4d3724074dfdd10aa123fa6d5e9fcff5baf7c90567bc77446f85c6f.m3u8
+中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
+中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
+中視HD 1080p,https://stream1.freetv.fun/71452b2d800ddbab4c04d56a1a0fc217af67502c171e2cdf11afeb724ddae007.m3u8
+CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
+AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
+美亚电影台(国),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影台(国),https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+
+☘️国际频道,#genre#
+CNN,https://jmp2.uk/stvp-ATBD800001VA
+CNN,https://jmp2.uk/stvp-CHBD800001D0
+CNN,https://jmp2.uk/stvp-DEBD800001S4
+CNN,https://jmp2.uk/stvp-GBBD8000016N
+CNN Headlines,https://jmp2.uk/stvp-ATBD190000101
+CNN Headlines,https://jmp2.uk/stvp-CHBD1900001JB
+CNN Headlines,https://jmp2.uk/stvp-DEBD19000012M
+CNN Headlines,https://jmp2.uk/stvp-ESBD190000137
+CNN Headlines,https://jmp2.uk/stvp-FRBD190001055
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC News,https://jmp2.uk/stvp-US4000033L
+ABC News Live,https://jmp2.uk/stvp-USBC39000171G
+FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
+FRANCE 24 FAST,https://jmp2.uk/stvp-CHBD1100003CW
+FRANCE 24 FAST,https://jmp2.uk/stvp-DEBD1100002II
+FRANCE 24 FAST,https://jmp2.uk/stvp-ESBD1100001PQ
+FRANCE 24 FAST,https://jmp2.uk/stvp-GBBD1100002L5
+Bloomberg TV+,https://jmp2.uk/stvp-ATBA3300018K1
+Bloomberg TV+,https://jmp2.uk/stvp-CHBA3300018TD
+Bloomberg TV+,https://jmp2.uk/stvp-DEBA3300027ZJ
+Bloomberg TV+,https://jmp2.uk/stvp-ESBA3300024AJ
+Bloomberg TV+,https://jmp2.uk/stvp-FR1400004VF
+Sky News,https://jmp2.uk/stvp-GB3300002NF
+Sky News,https://jmp2.uk/stvp-USBB52000022Q
+CBC News,https://jmp2.uk/stvp-CABC2300009KD
+CBC News,https://jmp2.uk/stvp-USBC4400003OU
+NBC News NOW,https://jmp2.uk/stvp-CAAJ2700011IF
+NBC News NOW,https://jmp2.uk/stvp-ESBC400003YM
+NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG
+NBC News NOW,https://jmp2.uk/stvp-ITBC4000028E
+NBC News NOW,https://jmp2.uk/stvp-USBB2200014DK
+DW,https://jmp2.uk/stvp-ES1300001QC
+DW,https://jmp2.uk/stvp-GB1300001RX
+Al Jazeera,https://jmp2.uk/stvp-ES2300004XW
+Al Jazeera,https://jmp2.uk/stvp-FR23000013B
+Al Jazeera,https://jmp2.uk/stvp-GB2300005ML
+Al Jazeera,https://jmp2.uk/stvp-IT23000034W
+LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
+BBC Series,https://jmp2.uk/stvp-AT2100004P1
+BBC Series,https://jmp2.uk/stvp-CH2100003MU
+BBC Series,https://jmp2.uk/stvp-DE21000031Z
+BBC Series,https://jmp2.uk/stvp-ES2900001DQ
+BBC Series,https://jmp2.uk/stvp-FR2900001UF
+BBC Earth,https://jmp2.uk/stvp-DE3200001RI
+BBC Earth,https://jmp2.uk/stvp-ES3200001F1
+BBC Earth,https://jmp2.uk/stvp-FR3200001NQ
+BBC Earth,https://jmp2.uk/stvp-IT3200002L5
+BBC Earth,https://jmp2.uk/stvp-USBD1700001RW
+BBC Travel,https://jmp2.uk/stvp-DE2900001W0
+Discovery,https://jmp2.uk/stvp-IT31000026G
+WWE Superstar Central,https://jmp2.uk/stvp-US700005ID
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+Red Bull TV,https://jmp2.uk/stvp-ATBD1500003ES
+Red Bull TV,https://jmp2.uk/stvp-DEBC2300001EU
+Red Bull TV,https://jmp2.uk/stvp-ES3800001V1
+Red Bull TV,https://jmp2.uk/stvp-GBBD2300003IK
+American Idol,https://jmp2.uk/stvp-GBBC2300001X5
+MTV Teen Mom,https://jmp2.uk/stvp-ATAJ7000105F
+MTV Teen Mom,https://jmp2.uk/stvp-CHAJ700010NR
+MTV Teen Mom,https://jmp2.uk/stvp-DEAJ7000105I
+MTV Pluto TV,https://jmp2.uk/stvp-ATAJ700002OG
+MTV Pluto TV,https://jmp2.uk/stvp-CHAJ700002UB
+MTV Pluto TV,https://jmp2.uk/stvp-DEAJ7000033P
+MTV Pluto TV,https://jmp2.uk/stvp-USBA3000093U
+MTV Catfish,https://jmp2.uk/stvp-ATAK3504517A
+MTV Catfish,https://jmp2.uk/stvp-CHAK3504517A
+MTV Catfish,https://jmp2.uk/stvp-DEAK3504502A
+MTV Catfish,https://jmp2.uk/stvp-ESAJ3800003LX
+MTV Catfish,https://jmp2.uk/stvp-FRAJ38000050Z
+MTV Cribs,https://jmp2.uk/stvp-ESAJ3800006TT
+AMC Stories,https://jmp2.uk/stvp-AT3000006M1
+AMC Stories,https://jmp2.uk/stvp-DE3000009SE
+Stories by AMC,https://jmp2.uk/stvp-USBD2500018X6
+Vevo Pop,https://jmp2.uk/stvp-CABC52000180Z
+Vevo Pop,https://jmp2.uk/stvp-DEBC2100001ZJ
+Vevo Pop,https://jmp2.uk/stvp-ESBC2100001IU
+Vevo Pop,https://jmp2.uk/stvp-FRBC2100001YY
+Vevo Pop,https://jmp2.uk/stvp-GBBC19000017V
+Vevo Latino,https://jmp2.uk/stvp-ESBC2100002LV
+Vevo Latino,https://jmp2.uk/stvp-USBC3600015GF
+Vevo Hip-Hop,https://jmp2.uk/stvp-USBC3600002EK
+K-POP by CJ ENM,https://jmp2.uk/stvp-CA3900002PM
+K-POP by CJ ENM,https://jmp2.uk/stvp-DE3900002R1
+K-POP by CJ ENM,https://jmp2.uk/stvp-ES3900001QG
+K-POP by CJ ENM,https://jmp2.uk/stvp-FR3900001AC
+K-POP by CJ ENM,https://jmp2.uk/stvp-GB3900001TM
+NEW KPOP,https://jmp2.uk/stvp-CA1800004L7
+NEW KPOP,https://jmp2.uk/stvp-DE17000032I
+NEW KPOP,https://jmp2.uk/stvp-ES1700005ME
+NEW KPOP,https://jmp2.uk/stvp-FR1700002OZ
+NEW KPOP,https://jmp2.uk/stvp-GB17000088V
+Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
+Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
