@@ -1,10 +1,11 @@
-📺央视频道,#genre#
+☘️央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
 CCTV-4
 CCTV-5
 CCTV-5+
+CCTV-16
 CCTV-6
 CCTV-7
 CCTV-8
@@ -15,13 +16,7 @@ CCTV-12
 CCTV-13
 CCTV-14
 CCTV-15
-CCTV-16
 CCTV-17
-CETV-1
-CETV-2
-CETV-3
-CETV-4
-
 📡卫视频道,#genre#
 广东卫视
 香港卫视
@@ -57,23 +52,144 @@ CETV-4
 西藏卫视
 新疆卫视
 云南卫视
-
-☘️广东频道,#genre#
-广东珠江
-广东体育
-广东新闻
-广东卫视
-广东民生
-大湾区卫视
-广州综合
-广州影视
-广州竞赛
-江门综合
-江门侨乡生活
-佛山综合
-深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
+☘️北京频道,#genre#
+BTV新闻
+BTV北京卫视
+BTV文艺
+BTV科教
+BTV影视
+BTV财经
+BTV生活
+BTV体育
+☘️香港频道,#genre#
+凤凰中文
+凤凰资讯
+凤凰香港
+翡翠台1080p
+翡翠台4K
+明珠台1080p
+TVB1 1080p
+TVBJ1 1080p
+TVB plus 1080p
+TVB星河720p
+TVB无线千禧1080p
+TVB千禧经典540p
+TVB功夫720p
+TVB娱乐新闻台720p
+ViuTV 1080p
+ViuTV6 1080p
+RHK31 1080p
+RHK32 1080p
+HOY76 1080p
+HOY77 1080p
+HOY78 1080p
+无线新闻台1080
+Global Fashion Channel (1080p)
+Fashion TV
+FashionTV Paris L'Original (1080p)
+Fashion CZ
+英雄联盟
+☘️台湾频道,#genre#
+中天新聞1080p(梯子)
+中天新聞720p
+CTS華視新聞资讯1080p
+中視新聞HD 1080p
+台视新闻HD 1080p
+台视财经HD 1080P
+東森新聞台HD 720p
+民視新聞台1080p
+年代新聞HD 1080p
+非凡新聞HD 1080p
+寰宇新聞台1080p
+寰宇新聞台湾台1080p
+TVBS新聞台HD 1080p
+中天娱乐HD 1080p
+中天综合HD 1080p
+华视HD 1080p
+中視HD 1080p
+台視HD 1080P
+三立台湾台1080p
+三立综合台720p
+TVBS精采台HD
+亚洲卫视1080p
+PopC电影
+CATCHPLAY电影
+AMC电影台
+淘电影
+好莱坞电影
+凤凰电影
+美亚电影台HD
+美亚电影台(粤)720p
+美亚电影台(国)
+华数电影
+东森电影HD
+緯來電影HD
+☘️国际频道,#genre#
+CNN
+CNN Headlines
+CNA
+BBC News
+ABC News Live
+FRANCE 24 FAST
+Bloomberg TV+
+Sky News 
+CBC News
+NBC News NOW
+DW
+DW English
+Al Jazeera
+LiveNOW from FOX
+ESPN
+BBC Series
+BBC Earth
+BBC Travel
+BBC Earth
+Discovery
+National Geographic
+NATGEO WILD
+WWE Superstar Central
+NBA TV
+Red Bull TV
+American Idol
+MTV Teen Mom
+MTV Pluto TV
+MTV Catfish
+MTV Cribs
+MTV 
+AMC Stories
+Stories by AMC
+AMC East (1080p)
+Vevo Pop
+Vevo Latino
+Vevo Hip-Hop
+K-POP by CJ ENM
+NEW KPOP
+Cinemax
+Cinemax ᶜᵒⁿᵛᵉʳᵍᵉ
+HBO
+HBO Family
+HBO Signature
+HBO Hits
+HBO ᶜᵒⁿᵛᵉʳᵍᵉ
+HBO 2
+EN | HBO Hits
+EN | HBO Movies
+Scares by Shudder
+Cinemax
+Showtime 2 East
+Showtime East
+Showtime Next East
+Showtime Women East
+Start TV
+Starz East
+Starz Encore Classic East
+Paramount Network East
+Hallmark Movies Mysteries East
+Hallmark Movies & More
+MovieSphere by Lionsgate
+Hi-Yah!
+Shades of Black
+Disney Channel East
+Disney Junior East
+Miami TV Jenny Live (720p) [Not 24/7]
+BTV Киска (+18)
