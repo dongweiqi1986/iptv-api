@@ -62,68 +62,92 @@ BTV财经
 BTV生活
 BTV体育
 ☘️香港频道,#genre#
-凤凰中文
 凤凰资讯
+凤凰中文
 凤凰香港
-翡翠台1080p
-翡翠台4K
-明珠台1080p
-TVB1 1080p
-TVBJ1 1080p
-TVB plus 1080p
-TVB星河720p
-TVB无线千禧1080p
-TVB千禧经典540p
-TVB功夫720p
-TVB娱乐新闻台720p
-ViuTV 1080p
-ViuTV6 1080p
-RHK31 1080p
-RHK32 1080p
-HOY76 1080p
-HOY77 1080p
-HOY78 1080p
-无线新闻台1080
+TVB无线新闻
+TVB明珠
+TVB PLUS
+TVB翡翠4K
+TVB翡翠
+TVB华丽翡翠
+TVB华丽翡翠(新加坡)
+TVB千禧经典
+TVB星河
+RTHK33
+RTHK34
+RTHK35
+环球电视
+香港卫视
+耀才财经
+香港面包
+C+
+NOW爆谷
+NOW星影
+NOW新闻
+凤凰电影
+美亚电影
+天映经典
+天映频道
+卫视电影
+星空卫视
+Astro 爱奇艺
+Astro AEC
+Astro AOD
+Astro QJ
+VIUTV
+VIUTV6  
 Global Fashion Channel (1080p)
 Fashion TV
 FashionTV Paris L'Original (1080p)
 Fashion CZ
 英雄联盟
 ☘️台湾频道,#genre#
-中天新聞1080p(梯子)
-中天新聞720p
-CTS華視新聞资讯1080p
-中視新聞HD 1080p
-台视新闻HD 1080p
-台视财经HD 1080P
-東森新聞台HD 720p
-民視新聞台1080p
-年代新聞HD 1080p
-非凡新聞HD 1080p
-寰宇新聞台1080p
-寰宇新聞台湾台1080p
-TVBS新聞台HD 1080p
-中天娱乐HD 1080p
-中天综合HD 1080p
-华视HD 1080p
-中視HD 1080p
-台視HD 1080P
-三立台湾台1080p
-三立综合台720p
-TVBS精采台HD
-亚洲卫视1080p
-PopC电影
-CATCHPLAY电影
-AMC电影台
-淘电影
-好莱坞电影
-凤凰电影
-美亚电影台HD
-美亚电影台(粤)720p
-美亚电影台(国)
-华数电影
-东森电影HD
-緯來電影HD
+BLOOMBERG
+TVBS
+TVBS新闻
+TVBS亚洲
+东森新闻
+东森美洲
+东森超视
+非凡新闻
+寰宇新闻
+镜新闻
+民视
+民视台湾
+民视第一
+民视新闻
+三立INEWS
+台视
+台视新闻
+台视综合
+台视财经
+中视
+中视新闻
+中视经典
+中视菁采
+中天新闻
+中天综合
+今日新闻
+BBC EARTH
+BBC LIFESTYLE
+CI犯罪调查
+历史
+麦哲伦
+幸福空间居家
+THRILL
+ELEVEN1
+ELEVEN2
+MOMO综合
+公视
+公视少儿
+公视台语
+华视
+华视教育文化
+华视新闻资讯
+纬来日本
+纬来体育
+纬来育乐  
 ☘️国际频道,#genre#
 CNN
 CNN Headlines
