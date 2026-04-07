@@ -13,14 +13,13 @@ https://raw.githubusercontent.com/iptv-org/iptv/39098fce4be816997371c369f1b045a1
 https://raw.githubusercontent.com/Cnmajun/IpTV/171dba781c48dd5f6fb2d2d9972ad1814248fb7d/fashionTV.m3u
 https://raw.githubusercontent.com/alenin-zhang/IPTV/9b6fcfdb2057fbf11614bd3b3d8096257ca4b2ba/av
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
-
-# https://raw.githubusercontent.com/Z3n0v/move_link/d6b81bf0e3d335b3c93bb932501f68920638d887/VIP%20code%22
-# https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan_Live/Adult.m3u
-# https://raw.githubusercontent.com/spammnmail/iptv2/refs/heads/main/x.m3u
-# https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
-# https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
-# https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/nonload.m3u
-# https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hk.m3u
+https://raw.githubusercontent.com/Z3n0v/move_link/d6b81bf0e3d335b3c93bb932501f68920638d887/VIP%20code%22
+https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan_Live/Adult.m3u
+https://raw.githubusercontent.com/spammnmail/iptv2/refs/heads/main/x.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/nonload.m3u
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hk.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
