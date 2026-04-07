@@ -2,6 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel.m3u
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel2.m3u
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/zubo.m3u
 https://raw.githubusercontent.com/woshishiq1/hipy-drpy/702477244352d3e117059c5eddf40d5cbb574e54/FGBLH/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86
