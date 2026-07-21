@@ -2,7 +2,16 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel.m3u 
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel2.m3u
+https://iptv.8plus.eu.org/get.php?username=tg_4w1400sr&password=bqfqm188y0k1&type=m3u_plus UA="Goiptv/8.8.8"
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/fr.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
+https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/li245089595/kid/116f426744b1559132f4318d4a36ba8e4fec3b59/tb.txt
+http://88.is-great.org/8/i/4kfallboss.txt
+https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hk.m3u
 
 
 
