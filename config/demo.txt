@@ -425,45 +425,48 @@ World Poker Tour
 WWE Superstar Central
 TSN The Ocho CA
 ☘️国际音乐,#genre#
-QelloConcertsbyStingray
-StingrayClassica
-StingrayDJAZZ
-Vevo'70s
-Vevo'80s
-Vevo'90s
-Vevo2K
-Vevo2010s
-VevoCountry
-VevoCountryRewind
-VevoHip-Hop
-VevoLatino
-VevoPop
-VevoR&B
-VevoRock
-XITE80sFlashback
-XITE90sThrowback
-XITEChristianHits
-XITEClassicCountry
-XITECountryToday
-XITEHits
-XITEJustChill
-XITENuevoLatino
-XITER&BClassicJams
-XITEReggaeVibes
-XITERockxMetal
-XITESiempreLatino
-XITESpringVibes
-NOW70sUK
-NOW80sUK
-NOW90s&00sUK
-TraceUKUK
-TraceUrbanUK
-TraceLatinaFR
-DeluxeDanceByKontorDE
-DeluxeDeutschpopDE
-DeluxeLoungeDE
-DeluxeRAPDE
-DeluxeSummertimeDE
+MTV
+MTV Live
+MUCH CA
+Qello Concerts by Stingray
+Stingray Classica
+Stingray DJAZZ
+Vevo '70s
+Vevo '80s
+Vevo '90s
+Vevo 2K
+Vevo 2010s
+Vevo Country
+Vevo Country Rewind
+Vevo Hip-Hop
+Vevo Latino
+Vevo Pop
+Vevo R&B
+Vevo Rock
+XITE 80s Flashback
+XITE 90s Throwback
+XITE Christian Hits
+XITE Classic Country
+XITE Country Today
+XITE Hits
+XITE Just Chill
+XITE Nuevo Latino
+XITE R&B Classic Jams
+XITE Reggae Vibes
+XITE Rock x Metal
+XITE Siempre Latino
+XITE Spring Vibes
+NOW 70s UK
+NOW 80s UK
+NOW 90s & 00s UK
+Trace UK UK
+Trace Urban UK
+Trace Latina FR
+Deluxe Dance By Kontor DE
+Deluxe Deutschpop DE
+Deluxe Lounge DE
+Deluxe RAP DE
+Deluxe Summertime DE
 ☘️记录与时尚,#genre#
 Space & Beyond
 Welcome Home
