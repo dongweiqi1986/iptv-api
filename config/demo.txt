@@ -262,49 +262,37 @@ SonyOneFAVESUK
 SonyOneThrillerTVUK
 BBCSeriesFR
 ☘️国际频道,#genre#
-ABCNewsLive
-BBCNewsInternational
-BloombergTV4K
-CBSNews24/7
-CheddarNews
+ABC News Live
+BBC News International
+Bloomberg TV 4K
+CBS News 24/7
+Cheddar News
 CNN
-CNNInternational
-LiveNOWfromFOX
-NBCNewsNOW
+CNN International
+LiveNOW from FOX
+NBC News NOW
 Newsmax
 Reuters
-SkyNewsInternational
-YahooFinance
-CBCNewsNetworkCA
-CTVNewsChannelCA
-BBCNewsUK
-BBCParliamentUK
-GBNewsUK
-EuronewsFR
-France24FR
-DWDE
-TRTWorldTR
-RTRU
-AlJazeeraQA
-CGTNCN
-CNASG
-DiscoveryTurboTV
-PBSAntiquesRoadshow
-BBCAntiquesRoadshowUK
-BBCFood
-BBCHome&Garden
-BBCTravelDE
-NBCLXHome
-PBSFood
-PBSTravel
-SweetEscapes
-Tastemade
-TastemadeHome
-TastemadeTravel
-CTV@HomeCA
-CTVGetsRealCA
-CTVLaughsCA
-BBCTopGearUK
+Sky News International
+Yahoo Finance
+CBC News Network CA
+CTV News Channel CA
+BBC News UK
+BBC Parliament UK
+GB News UK
+Euronews FR
+France 24 FR
+DW DE
+TRT World TR
+RT RU
+Al Jazeera QA
+CGTN CN
+CNA SG
+BNN Bloomberg CA
+CityNews Toronto CA
+CityNews Vancouver CA
+Bloomberg Originals
+CNN Originals
 FashionTVFR
 Documentary+
 PBSHistory
