@@ -257,227 +257,56 @@ LG 1
 SBS Drama
 New Kmovies
 ☘️国际体育,#genre#
-Sky Sports Main Event UK
-Sky Sports Premier League UK
-Sky Sports Football UK
-Sky Sports+ UK
-Sky Sports Cricket UK
-Sky Sports Golf UK
-Sky Sports F1 UK
-Sky Sports Tennis UK
-Sky Sports News UK
-Sky Sports Action UK
-Sky Sports Racing UK
-Sky Sports Mix UK
-TNT Sports 1 UK
-TNT Sports 2 UK
-TNT Sports 3 UK
-TNT Sports 4 UK
-Premier Sports 1 UK
-Premier Sports 2 UK
-beIN Sports 1 FR
-beIN Sports 2 FR
-beIN Sports 3 FR
-CANAL+ Sport FR
-CANAL+ Sport 360 FR
-CANAL+ Foot FR
-Eurosport 1 FR
-Eurosport 2 FR
-DAZN 1 DE
-DAZN 2 DE
-Sky Sport News DE
-Sky Sport Top Event DE
-Sky Sport Bundesliga DE
-Sky Sport F1 DE
-Sky Sport Premier League DE
-Sky Sport Mix DE
-Sky Sport Tennis DE
-Sky Sport Golf DE
-Sky Sport Austria 1 DE
-Deportes por M+ ES
-Golf por M+ ES
-LaLiga por M+ ES
-Liga de Campeones por M+ ES
-Vamos por M+ ES
-Sky Sport 24 IT
-Sky Sport Uno IT
-Sky Sport Calcio IT
-Sky Sport Tennis IT
-Sky Sport Arena IT
-Sky Sport Basket IT
-Sky Sport Max IT
-Sky Sport F1 IT
-Sky Sport MotoGP IT
-Sky Sport Golf IT
-Sky Sport Legend IT
-Sky Sport Mix IT
-ACC Network
-beIN SPORTS
-Big Ten Network
-CBS Sports Network
-ESPNU
-Golf Channel
-MSG
-NBA TV
-NFL Network
-SEC Network
-Spectrum SportsNet
-Spectrum SportsNet LA
-SportsNet New York
-SportsNet Pacific CA
-SportsNet West CA
-SportsNet Ontario CA
-SportsNet East CA
-SportsNet ONE CA
-SportsNet 360 CA
-SportsNet World CA
-Fox Sports News AU
-Fox Sports 501 AU
-Fox Sports 502 AU
-Fox Sports 503 AU
-Fox Sports 504 AU
-Fox Sports 505 AU
-Fox Sports 506 AU
-Fox Sports 507 AU
-SKY Sport Select NZ
-SKY Sport 1 NZ
-SKY Sport 2 NZ
-SKY Sport 3 NZ
-SKY Sport 4 NZ
-SKY Sport 5 NZ
-SKY Sport 6 NZ
-SKY Sport 7 NZ
-SKY Sport Premier League NZ
-SKY Sport 9 NZ
-ACC Digital Network
-beIN Sports XTRA
-Billiard TV
-Bowling TV
-CBS Sports Golazo Network
-Cowboy+ Sports
-DAZN Ringside
-ESPN8: The Ocho
-F1 TV
-FIFA+
-Fubo Sports Network
-HBO Boxing
-MotoGP Channel
-MSG SportsZone
-NASCAR Channel
-NESN Nation
-NBC Sports NOW
-PFL
-PokerGO
-Red Bull TV
-Red Bull TV Motorsport
-Strongman Champions League
-T2 Tennis Channel
-UFC
-Willow Sports
-Women's Sports Network
-World Fishing Network
-World Poker Tour
-WWE Superstar Central
-TSN The Ocho CA
-☘️国际音乐,#genre#
-MTV
-MTV Live
-MUCH CA
-Qello Concerts by Stingray
-Stingray Classica
-Stingray DJAZZ
-Vevo '70s
-Vevo '80s
-Vevo '90s
-Vevo 2K
-Vevo 2010s
-Vevo Country
-Vevo Country Rewind
-Vevo Hip-Hop
-Vevo Latino
-Vevo Pop
-Vevo R&B
-Vevo Rock
-XITE 80s Flashback
-XITE 90s Throwback
-XITE Christian Hits
-XITE Classic Country
-XITE Country Today
-XITE Hits
-XITE Just Chill
-XITE Nuevo Latino
-XITE R&B Classic Jams
-XITE Reggae Vibes
-XITE Rock x Metal
-XITE Siempre Latino
-XITE Spring Vibes
-NOW 70s UK
-NOW 80s UK
-NOW 90s & 00s UK
-Trace UK UK
-Trace Urban UK
-Trace Latina FR
-Deluxe Dance By Kontor DE
-Deluxe Deutschpop DE
-Deluxe Lounge DE
-Deluxe RAP DE
-Deluxe Summertime DE
-☘️记录与时尚,#genre#
-Space & Beyond
-Welcome Home
-BBC History DE
-The Judge Judy Channel
-BBC Earth
-Haunt TV
-FilmRise Forensic Files
-FilmRise Mysteries
-FilmRise True Crime
-MagellanTV Wildest
-How To
-Bloomberg Originals
-CNN Originals
-Nature Moments
-PBS Genealogy
-PBS Nature
-REELZ Famous & Infamous
-Smithsonian Channel Selects
-Military Heroes
-Universe: Mysteries Solved
-PBS History
-PBS Science
-Discovery Turbo
-Tastemade Travel
-Tastemade Home
-Tastemade
-Sweet Escapes
-BBC Travel DE
-BBC Antiques Roadshow UK
-BBC Top Gear UK
-CTV Gridlock CA
-A&E Crime 360 CA
-FilmRise Drama
-FilmRise Horror
-FilmRise Sci-Fi
-FilmRise Black TV
-FilmRise British TV
-FilmRise Classic TV
-FilmRise Western
-FilmRise Free Movies
-Universal Crime
-Universal Monsters
-Universal Western
-Universal Action
-Universal Movies
-Great! Movies UK
-Great! Romance UK
-Lifetime Movies UK
-Classic Cinema
-TV Land Drama
-Documentales por M+ ES
-Indie por M+ ES
-Drama por M+ ES
-Acción por M+ ES
-Clásicos por M+ ES
-Comedia por M+ ES
-Hits por M+ ES
-Estrenos por M+ ES
+NICK
+REDBULL
+GOOD
+TRUE VISIONS
+TRUE SPORTS 5
+TRUE SPORTS
+TRUE VISIONS
+TRUE WILD
+WB TV
+TRUE X-XYTE
+MLB NETWORK HD
+SporTV HD
+SporTV 2 HD
+SporTV 3 HD
+SporTV 4 HD
+CCTV5
+CCTV5+
+CCTV5
+CCTV5+
+ASTRO Football
+ASTRO Grandstand
+ASTRO Premier League
+ASTRO Premier League 2
+ASTRO Sports Plus
+BEIN SPORTS 1 [ID]
+BEIN SPORTS 2 [ID]
+HUB SPORTS 1 [SG]
+HUB SPORTS 2 [SG]
+HUB SPORTS 3 [SG]
+HUB SPORTS 4 [SG]
+HUB SPORTS 5 [SG]
+STARHUB PREMIER 1 [SG]
+STARHUB PREMIER 2 [SG]
+STARHUB PREMIER 2 [SG]
+STARHUB PREMIER 3 [SG]
+STARHUB PREMIER 4 [SG]
+STARHUB PREMIER 5 [SG]
+TRUE PREMIERE LEAGUE 1 [TH]
+TRUE PREMIERE LEAGUE 2 [TH]
+TRUE PREMIERE LEAGUE 3 [TH]
+TRUE PREMIERE LEAGUE 4 [TH]
+TRUE PREMIERE LEAGUE 5 [TH]
+Fussbal TV 1 FHD DE
+Fussbal TV 2 FHD DE
+Fussbal TV 3 FHD DE
+BBC One UK
+FOX Sports 1 HD US
+FOX Sports 2 HD US
+TSN 1 HD CA
+TSN 2 HD CA
+TSN 3 HD CA
+TSN 4 HD CA
+TSN 5 HD CA
