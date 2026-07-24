@@ -62,110 +62,102 @@ CHC影迷电影
 鏡電視新聞台
 東森新聞台
 華視新聞
+華視新聞
+民視新聞台
+民視新聞台
 民視新聞台
 三立新聞iNEWS
 TVBS新聞
 東森財經新聞台
+東森財經新聞台
+中視新聞
 中視新聞
 中天新聞台
+Bloomberg TV
 寰宇新聞台
 寰宇新聞台灣台
-Bloomberg TV
 SBN全球財經台
-CNBC Asia 財經台
 半島國際新聞台
+CNBC Asia 財經台
 FRANCE24 英文台
 DW德國之聲
 NHK WORLD-JAPAN
-三立綜合台
-八大綜藝台
-TVBS精采台
-靖天綜合台
-TVBS歡樂台
-TVBS綜藝台
-民視綜藝台
-Nice TV 靖天歡樂台
-八大精彩台
-靖天育樂台
+電影原聲台CMusic
+TRACE Urban
+Mezzo Live HD
+CLASSICA 古典樂
+ROCK Xstream搖滾極限頻道
 ROCK Entertainment
-Lifetime 娛樂頻道
-fun探索娛樂台
-韓國娛樂台 KMTV
-TVBS台劇台
-靖天戲劇台
-靖洋戲劇台
-民視影劇台
+ROCK Action
 靖天映畫
 靖天電影台
 影迷數位電影台
 amc電影台
 CinemaWorld
 My Cinema Europe HD 我的歐洲電影
-HITS頻道
-采昌影劇台
-公視戲劇
-ROCK Action
 經典電影台
-GagaOOLala 精選LGBTQ+好劇
 民視旅遊台
 亞洲旅遊台
+亞洲旅遊台
+fun探索娛樂台
+Love Nature
+History 歷史頻道
 愛爾達生活旅遊台
-Global Trekker
-幸福空間居家台
 LUXE TV Channel
 TV5MONDE STYLE HD 生活時尚
 MagellanTV頻道 (麥哲倫頻道)
-Love Nature
-電影原聲台CMusic
-TRACE Urban
+INULTRA
 FashionTV 時尚頻道
 Mezzo Live HD
-CLASSICA 古典樂
 ROCK Xstream搖滾極限頻道
 LUXE TV Channel
-TV5MONDE STYLE HD 生活時尚
-MagellanTV頻道 (麥哲倫頻道)
 Love Nature
 ☘️香港频道,#genre#
-鳳凰衛視資訊台
-凤凰卫视中文台
-凤凰中文
-凤凰资讯
-凤凰香港
-無線衛星新聞台
-半島電視台英語頻道
-France 24
-DW
-NHK World-Japan
-Now体育1台4K
-星和英超2台超高清
-普里马4K体育
-天空体育F1超高清
-体育5台4K
-欧洲体育4K
-TNT体育终极版
-TNT体育1台全高清
-天空体育F1全高清
-天空体育网球全高清
-亚洲新闻台
+鳳凰中文
+鳳凰資訊
+鳳凰香港
+無線新聞台1
+無線新聞台2
+TVB娛樂新聞台
+NOW新聞台
+HOY資訊台
+HOY國際財經台
+無線新聞台B
+NOW新聞台B
+鳳凰中文B
+鳳凰資訊B
+鳳凰香港B
+HOY資訊台B
+HOY國際財經台B
+天映頻道
+天映新加坡
+天映經典台
+天映經典台2
+TVB星河1
+TVB星河2
+TVB星河3
+靖天電影台
+龍華電影
+經典電影台
+amc電影台
+CinemaWorld
+My Cinema Europe
+影迷數位電影台
+天映頻道(新加坡)B
+天映經典B
+龍華電影B
+經典電影台
+TVB星河B
 翡翠台
-明珠台
-无线新闻
-TVBPLUS
-ViuTV
-ViuTV 6
-RTHK 31
-RTHK 32
-HOY TV
-HBO_HD
-HBO_HITS
-HBO Signature Taiwan
-Hollywood Movies
-MTV Live
-EYETV 旅游
-探索频道
-Asia Food Network
-DW (Deutsch)
+翡翠台(字幕)
+翡翠台4K(字幕)
+翡翠劇集台
+華麗翡翠台1
+華麗翡翠台2
+華麗翡翠台(硬字幕)
+華麗翡翠台(新加坡)
+MTV (Primehome)
+Music Japan TV (Primehome)
 FASHION+
 Fashion World
 Global Fashion Channel (1080p)
@@ -174,133 +166,96 @@ FashionTV Secrets (1080p)
 Deluxe Music
 nuart
 ☘️电影频道,#genre#
-HBOMovies
-Cinemax
-CinemaxHits
-STARZCinema
-HBOComedy
-Paramount+withShowtime
-STARZComedy
-HBO
-STARZ
-Crave1CA
-Crave2CA
-Crave3CA
-Crave4CA
-SuperÉcran1CA
-SuperÉcran2CA
-SuperÉcran3CA
-SuperÉcran4CA
-CinéPopCA
-SkyMoviesPremiereNZ
-SkyMoviesComedyNZ
-SkyMoviesActionNZ
-SkyMoviesGreatsNZ
-SkyMoviesClassicsNZ
-SkyMoviesFamilyNZ
-ROCK Action
-HBO
-AMCThrillers
-AttheMovies
-BBCComedy
-BBCDrama
-BBCSci-Fi
-BETPlutoTV
-BETxTylerPerryComedy
-BETxTylerPerryDrama
-BOUNCEXL
-CINELIFE
-CINEVAULT
-CINEVAULT:Classics
-CINEVAULT:Westerns
-ClassicCinema
-CWForever
-CWGold
-DOVEChannel
-EbonyTVbyLionsgate
-ElReyRebel
-FilmRiseAction
-FilmRiseBlackTV
-FilmRiseBritishTV
-FilmRiseClassicTV
-FilmRiseComedy
-FilmRiseDrama
-FilmRiseFreeMovies
-FilmRiseHorror
-FilmRiseSci-Fi
-FilmRiseWestern
-GRITXtra
-HallmarkMovies&More
-HerSpherebyLionsgate
-ionMystery
-ionPlus
-LifetimeMovieFavorites
-LifetimeMoviesLove&Drama
-MGMPresent
-MGMPresentAction
-MGMPresentHorror
-MGMPresentWesterns
-MovieSpherebyLionsgate
-NBCComedyVault
-OuterSpherebyLionsgate
-StoriesbyAMC
-TVLandDrama
-TVLandSitcoms
-UniversalMovies
-UniversalAction
-UniversalCrime
-UniversalMonsters
-UniversalWestern
-BritBoxMysteriesUK
-Great!MoviesUK
-Great!RomanceUK
-LifetimeMoviesUK
-SonyOneActionHITSUK
-SonyOneComedyHITSUK
-SonyOneComedyTVUK
-SonyOneFAVESUK
-SonyOneThrillerTVUK
-BBCSeriesFR
+HBO(125)
+CINEMAX(125)
+東森電影(125)
+amc 電影台
+影迷數位電影台
+My Cinema Europe HD 我的歐洲電影
+MovieSphere
+Action Hollywood
+Mytime Movie
+Universal Movies
+Universal Action
+Universal Western
+Universal Crime
+CW Gold
+CW Forever
+Sony One Action HITS
+Sony One Comedy HITS
+Top Movies
+Action Movies
+Comedy Movies
+Thrillers
+Sci-Fi
+Romance Movies
+Drama Movies
+Thriller TV
+Comedy TV
+Sony One FAVES
+Sony One Dragons' Den
+Great British Menu
+Icon Film Channel
+Popflix
+LG 1 Film
+Universal Monsters
+Action Movies 
+Comedy Movies
+Drama Movies 
+Romance Movies 
+Sci-Fi
+Thrillers
+Top Movies
+Reality
+Family  
 ☘️国际频道,#genre#
-ABC News Live
-BBC News International
-Bloomberg TV 4K
-CBS News 24/7
-Cheddar News
 CNN
-CNN International
-LiveNOW from FOX
-NBC News NOW
-Newsmax
+CNNj (Primehome) 
+BBC News
+BBC News (Primehome)  
+CNA
+GB News
+ABC News
+RT News
+TV Brics
+France24
+NHK World
+Sky News
+Al Jazeera
+TRT World
+NEWSMAX
 Reuters
+Global News
+NBC News Now
+One American News
+WION
+ABC News Live
 Sky News International
-Yahoo Finance
-CBC News Network CA
-CTV News Channel CA
-BBC News UK
-BBC Parliament UK
-GB News UK
-Euronews FR
-France 24 FR
-DW DE
-TRT World TR
-RT RU
-Al Jazeera QA
-CGTN CN
-CNA SG
-BNN Bloomberg CA
-CityNews Toronto CA
-CityNews Vancouver CA
-Bloomberg Originals
-CNN Originals
+National Geographic (Primehome)
+Discovery (Primehome) 
+History Channel (Primehome)
+Animal Planet (Primehome)
+Trace Sport Stars
+Tennis Channel
+beIN SPORTS XTRA
+UFC
 FashionTV FR
-Documentary+
-BBCHistoryDE
-BBC Earth
-Bloomberg TV 4K
-beIN SPORTS 4K HDR
-Clarity 4K
-Love Nature 4K
+DBBC Earth
+Wild Earth
+History Hit
+Outdoor Channel
+The First
+Adventure Earth
+Autentic History
+Autentic Travel
+Inside Outside
+GoUSA TV
+Kartoon Channel
+ION Plus
+LG 1 Spotlight
+LG 1
+SBS Drama
+New Kmovies
 ☘️国际体育,#genre#
 Sky Sports Main Event UK
 Sky Sports Premier League UK
