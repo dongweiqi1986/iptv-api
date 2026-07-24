@@ -23,109 +23,109 @@ https://cdn-3.ttvb.eu.org/bilibili/98
 #EXTINF:-1  tvg-name="「B站」英雄联盟" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/「B站」英雄联盟.png"  group-title="游戏频道",「B站」英雄联盟
 https://cdn-3.ttvb.eu.org/bilibili/6
 #EXTM3U
-#EXTINF:-1 group-title="CCTV",CCTV1-综合
+#EXTINF:-1,CCTV1-综合
 http://114.241.105.149:85/tsfile/live/1/1001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV2-财经
+#EXTINF:-1,CCTV2-财经
 http://114.241.105.149:85/tsfile/live/2/1002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV3-综艺
+#EXTINF:-1,CCTV3-综艺
 http://114.241.105.149:85/tsfile/live/3/1003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV4-国际
+#EXTINF:-1,CCTV4-国际
 http://114.241.105.149:85/tsfile/live/4/1004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV5-体育
+#EXTINF:-1,CCTV5-体育
 http://114.241.105.149:85/tsfile/live/5/1005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV6-电影
+#EXTINF:-1,CCTV6-电影
 http://114.241.105.149:85/tsfile/live/6/1006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV7-军农
+#EXTINF:-1,CCTV7-军农
 http://114.241.105.149:85/tsfile/live/7/1007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV8-电视剧
+#EXTINF:-1,CCTV8-电视剧
 http://114.241.105.149:85/tsfile/live/8/1008_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV9-纪录
+#EXTINF:-1,CCTV9-纪录
 http://114.241.105.149:85/tsfile/live/9/1009_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV10-科教
+#EXTINF:-1,CCTV10-科教
 http://114.241.105.149:85/tsfile/live/10/1010_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV11-戏曲
+#EXTINF:-1,CCTV11-戏曲
 http://114.241.105.149:85/tsfile/live/11/1011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV12-社会与法
+#EXTINF:-1,CCTV12-社会与法
 http://114.241.105.149:85/tsfile/live/12/1012_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV13-新闻
+#EXTINF:-1,CCTV13-新闻
 http://114.241.105.149:85/tsfile/live/13/1013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV14-少儿
+#EXTINF:-1,CCTV14-少儿
 http://114.241.105.149:85/tsfile/live/14/1014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV15-音乐
+#EXTINF:-1,CCTV15-音乐
 http://114.241.105.149:85/tsfile/live/15/1015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV北京卫视
+#EXTINF:-1,BTV北京卫视
 http://114.241.105.149:85/tsfile/live/16/1016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV文艺
+#EXTINF:-1,BTV文艺
 http://114.241.105.149:85/tsfile/live/17/1017_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV科教
+#EXTINF:-1,BTV科教
 http://114.241.105.149:85/tsfile/live/18/1018_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV影视
+#EXTINF:-1,BTV影视
 http://114.241.105.149:85/tsfile/live/19/1019_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV财经
+#EXTINF:-1,BTV财经
 http://114.241.105.149:85/tsfile/live/20/1020_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="4K",4K超清
+#EXTINF:-1,4K超清
 http://114.241.105.149:85/tsfile/live/21/1021_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV生活
+#EXTINF:-1,BTV生活
 http://114.241.105.149:85/tsfile/live/22/1022_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="CCTV",CCTV5+
+#EXTINF:-1,CCTV5+
 http://114.241.105.149:85/tsfile/live/23/1023_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV新闻
+#EXTINF:-1,BTV新闻
 http://114.241.105.149:85/tsfile/live/24/1024_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="北京卫视",BTV体育
+#EXTINF:-1,BTV体育
 http://114.241.105.149:85/tsfile/live/25/1025_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",湖南卫视高清
+#EXTINF:-1,湖南卫视高清
 http://114.241.105.149:85/tsfile/live/26/1026_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",浙江卫视-高清
+#EXTINF:-1,浙江卫视-高清
 http://114.241.105.149:85/tsfile/live/27/1027_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",江苏卫视-高清
+#EXTINF:-1,江苏卫视-高清
 http://114.241.105.149:85/tsfile/live/28/1028_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",安徽卫视
+#EXTINF:-1,安徽卫视
 http://114.241.105.149:85/tsfile/live/29/1029_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",天津卫视-高清
+#EXTINF:-1,天津卫视-高清
 http://114.241.105.149:85/tsfile/live/30/1030_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",辽宁卫视
+#EXTINF:-1,辽宁卫视
 http://114.241.105.149:85/tsfile/live/31/1031_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",江苏卫视
+#EXTINF:-1,江苏卫视
 http://114.241.105.149:85/tsfile/live/32/1032_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",云南卫视
+#EXTINF:-1,云南卫视
 http://114.241.105.149:85/tsfile/live/33/1033_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",河南卫视
+#EXTINF:-1,河南卫视
 http://114.241.105.149:85/tsfile/live/34/1034_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",黑龙江卫视-高清
+#EXTINF:-1,黑龙江卫视-高清
 http://114.241.105.149:85/tsfile/live/35/1035_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",四川卫视
+#EXTINF:-1,四川卫视
 http://114.241.105.149:85/tsfile/live/36/1036_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",江西卫视
+#EXTINF:-1,江西卫视
 http://114.241.105.149:85/tsfile/live/37/1037_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",贵州卫视-高清
+#EXTINF:-1,贵州卫视-高清
 http://114.241.105.149:85/tsfile/live/38/1038_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",深圳卫视
+#EXTINF:-1,深圳卫视
 http://114.241.105.149:85/tsfile/live/39/1039_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",湖北卫视-高清
+#EXTINF:-1,湖北卫视-高清
 http://114.241.105.149:85/tsfile/live/40/1040_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",东方卫视-高清
+#EXTINF:-1,东方卫视-高清
 http://114.241.105.149:85/tsfile/live/41/1041_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",重庆卫视
+#EXTINF:-1,重庆卫视
 http://114.241.105.149:85/tsfile/live/42/1042_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",东南卫视
+#EXTINF:-1,东南卫视
 http://114.241.105.149:85/tsfile/live/43/1043_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",河北卫视-高清
+#EXTINF:-1,河北卫视-高清
 http://114.241.105.149:85/tsfile/live/44/1044_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",广东卫视-高清
+#EXTINF:-1,广东卫视-高清
 http://114.241.105.149:85/tsfile/live/45/1045_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",广西卫视
+#EXTINF:-1,广西卫视
 http://114.241.105.149:85/tsfile/live/46/1046_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",吉林卫视
+#EXTINF:-1,吉林卫视
 http://114.241.105.149:85/tsfile/live/47/1047_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",陕西卫视
+#EXTINF:-1,陕西卫视
 http://114.241.105.149:85/tsfile/live/48/1048_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",山西卫视
+#EXTINF:-1,山西卫视
 http://114.241.105.149:85/tsfile/live/49/1049_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+#EXTINF:-1,内蒙古卫视
 http://114.241.105.149:85/tsfile/live/50/1050_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",青海卫视
+#EXTINF:-1,青海卫视
 http://114.241.105.149:85/tsfile/live/51/1051_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",宁夏卫视
+#EXTINF:-1,宁夏卫视
 http://114.241.105.149:85/tsfile/live/52/1052_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="地方卫视",西藏卫视
+#EXTINF:-1,西藏卫视
 http://114.241.105.149:85/tsfile/live/53/1053_1.m3u8?key=txiptv
